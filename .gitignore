@@ -290,6 +290,8 @@ tests-out/
 # PRESERVE TEST DIRS
 !/tests-*/*.out
 !/tests-*/*.a
+!/tests/monte-carlo-args/*.a
+!/tests/monte-carlo-args/*.out
 
 # executables
 function-tests
